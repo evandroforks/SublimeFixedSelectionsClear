@@ -6,7 +6,8 @@ When I click `Ctrl+A` the only way to deselect is to click on arrow keys but the
 moved to the beginning or end of the document. Is there a way to deselect and remain on the same
 place?
 
-This deselect the Sublime Text selection and remain on the same place.
+This deselect the Sublime Text selection and remain on the same place. Just open the command palette
+and call the command `Fixed Selections Clear`.
 
 
 ### Or
